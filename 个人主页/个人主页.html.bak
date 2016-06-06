@@ -1,0 +1,227 @@
+<html>
+<head>
+	<style type='text/css'>
+		a{
+	    text-decoration:none; 
+		}
+		.a1{
+			height:1200px;
+		    width:100%;
+			background:url('3_副本.jpg');
+		}
+	    .a2{
+			height:348px;
+			width:1000px;
+			background:url('2.jpg');
+			margin-left:165px;
+			font-family:'华文行楷';
+			
+		}
+		.a3{
+			text-align:center;
+			height:5px;
+			font-size:100px;
+			color:FFFFFF;
+
+		}
+		.a4{
+			color:#FFFFFF;
+			font-size:30px;
+			margin-left:650px
+		}
+		.a5{
+			color:#FFFFFF;
+			font-size:30px;
+			margin-left:30px;
+		}
+		.a6{
+			font-size:30px;
+			margin-top:30px;
+		}
+		.a7{
+			color:#FFFFFF;
+		}
+		ul{
+		   height:180px;
+		   width:130px;
+		}
+		.a8{
+		    height:200px;
+		    width:200px;
+			float:left;
+		}
+		.a9{
+			height:100px;
+			width:600px;
+			float:left;
+			margin-top:50px;
+		}
+		.s1{
+		    height:30px;
+			width:600px;
+			float:left;
+			margin-top:5px;
+		}
+		.s2{
+			height:820px;
+			width:1000px;
+			background:#0099FF;
+			margin-left:165px;
+		}
+		.s3{
+			height:220px;
+			width:1000px;
+			background:url('545d6_副本.jpg');
+			float:left;
+		}
+		.f1{
+		    height100px;
+			width100px;
+			float:left;
+	    }
+		.s5{
+			height:304px;
+			width:1000px;
+			background:url('asa_副本.jpg');
+			float:left;
+		}
+		.s6{
+			color:#CC00FF;
+			font-family:'华文行楷';
+			
+		}
+		.s7{
+			margin-left:800px;
+			height:200px;
+			width:180px;
+		}
+		.s8{
+			height:240px;
+			width:180px;
+			float:left;
+		}
+		.s9{
+			height:200px;
+			width:600px;
+			float:left;
+			margin-top:50px;
+			margin-left:100px;
+		}
+		.d1{
+			width:1000px;
+			height:330px;
+			background:url('asdaf.jpg');
+			float:left;
+			margin-top:22px;
+		}
+		.d2{
+			width:800px;
+			height:330px;
+			float:left;
+			margin-top:40px;
+		}
+		.d3{
+			width:200px;
+			height:330px;
+			float:left;
+		}
+		.d4{
+		    width:200px;
+			height:200px;
+			float:left;
+			margin-left:600px;
+			font-family:'华文行楷';
+		}
+	    .d5{
+			width:200px;
+			height:200px;
+			float:left;
+			margin-top:15px;
+		}
+	</style>
+</head>
+<body>
+	<div class='a1'>
+		 <div class='a2'>
+			<p class='a3'>纹坪论道&nbsp;天人合一</p>
+			<a href='yingji.html'class='a4'>影集</a><a href='xiuxing.html'class='a5'>修行</a><a href='suiji.html'class='a5'>随记</a><a href='qiuzhi.html'class='a5'>求知</a><br/>
+			<div class='a8'>
+				<ul class='s4'>
+					<li class='a6'><a href='gerenfengcai.html'><span class='a7'>个人风采</span></a></li>
+					<li class='a6'><a href='xingquaihao.html'><span class='a7'>兴趣爱好</span></a></li>
+					<li class='a6'><a href='zhurenjiyu.html'><span class='a7'>主人寄语</span></a></li>
+				</ul>
+			</div>
+			<div class='a9'>
+				<marquee scrollAmount='5' scrollDelay='10' width='600' height='100' direction='right'>
+					<img src='96_副本.jpg' width='100' height='100' />
+					<img src='wasd.jpg' width='100' height='100' />
+					<img src='qq.jpg' width='100' height='100' />
+					<img src='1.jpg' width='100' height='100' />
+					<img src='qqaa.jpg' width='100' height='100' />
+				</marquee>
+			</div>
+			<div class='s1'>
+				<embed src='1.MP3' width='400' height='50' />
+			</div>
+		 </div>
+		 <div class='s2'>
+			<div class='s3'>
+				<div class='f1'>		
+				</div>
+				    <div class='d5'>
+						<marquee scrollAmount='5' scrollDelay='10' width='200' height='200' direction='left'>
+								<img src='4.jpg' width='600' height='200'>
+								<img src='wwww.jpg'width='600' height='200'>
+						</marquee>
+					</div>
+				<div class='d4'>
+					<ul>
+						<li class='a6'><a href='xiangdaolishi.html'><span class='a7'>香道历史</span></a></li>
+						<li class='a6'><a href='xiaongdaochuancheng.html'><span class='a7'>香道传承</span></a></li>
+						<li class='a6'><a href='xiangdaobiaoyan.html'><span class='a7'>香道表演</span></a></li>
+					</ul>
+				</div>
+			</div>
+				<div class='s5'>
+					<div class='s8'>
+						<ul >
+							<li class='a6'><a href='chadaolishi.html'><span class='s6'>茶道历史</span></a></li>
+							<li class='a6'><a href='chadaofenlei.html'><span class='s6'>茶道分类</span></a></li>
+							<li class='a6'><a href='chadaowenhua.html'><span class='s6'>茶道文化</span></a></li>
+							<li class='a6'><a href='chayezhonglei.html'><span class='s6'>茶叶种类</span></a></li>
+						</ul>
+					</div>
+					<div class='s9'>
+						<marquee scrollAmount='5' scrollDelay='10' width='600' height='400' direction='right'>
+							<img src='96_副本.jpg' width='100' height='100' />
+							<img src='f543a7_副本.jpg' width='400' height='200' />
+							<img src='d766769a3ec0880538dbe443b43a2407.jpg' width='400' height='200' />
+							<img src='a8fb6e5c21aadb4e7031ac69c4144402.jpg' width='600' height='200' />
+						</marquee>
+					</div>
+					<div class='d1'>
+						<div class='d2'>
+							<marquee scrollAmount='5' scrollDelay='10' width='700' height='200' direction='right'>
+								<img src='1b3668a5c9de3d50ff2de6dfb2f34adf.jpg' width='400' height='200' />
+								<img src='8b71fc3189b5f3bb5845a2f284e4fd1f.png' width='400' height='200' />
+								<img src='06357105c1926fe93dc9207d7fffe358.jpg' width='400' height='200' />
+								<img src='70744904bc7d1d76e18fbc231932744f.jpg' width='400' height='200' />
+								<img src='8a882bff02adb4840abb190ffbcfa778.jpg' width='400' height='200' />
+							</marquee>
+						</div>
+						<div class='d3'>
+							<ul >
+								<li class='a6'><a href='guojixiangqii.html'><span class='s6'>国际象棋</span></a></li>
+								<li class='a6'><a href='weiqi.html'><span class='s6'>围棋</span></a></li>
+								<li class='a6'><a href='zhongguoxiangqi.html'><span class='s6'>中国象棋</span></a></li>
+								<li class='a6'><a href='guojitiaoqi.html'><span class='s6'>国际跳棋</span></a></li>
+							</ul>
+						<div>
+					</div>
+				</div>
+			</div>
+		 </div>
+	</div>
+</body>
+</html>
